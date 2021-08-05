@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @abusenet
+- 👀 I’m interested in data
+- 🌱 I’m currently learning rclone
+- 💞️ I’m looking to collaborate on saas
+- 📫 How to reach me ...
